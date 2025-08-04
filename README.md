@@ -42,7 +42,7 @@ src/
 │   └── LoginOptions.jsx    # Opções de login
 │
 ├── pages/
-│   └── Dashboard.jsx       # Página após realização do login
+│   └── UserPage.jsx        # Página após realização do login
 │   └── RegisterPage.jsx    # Página de cadastro de usuário
 │
 ├── App.jsx                 # Estrutura principal da aplicação

@@ -21,7 +21,7 @@ function Login() {
 
         if (userFound) {
             alert("Login bem-sucedido!");
-            navigate("/dashboard"); // redireciona para o dashboard
+            navigate("/userpage"); // redireciona para a página de usuário
         } else {
             alert("Usuário ou senha incorretos.");
         }
