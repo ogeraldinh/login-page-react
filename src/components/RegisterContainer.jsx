@@ -5,7 +5,7 @@ function RegisterContainer() {
                 Não possui uma conta?
             </h2>
             <button className="bg-indigo-500 p-2 rounded-xl text-slate-50 w-full hover:bg-indigo-400 cursor-pointer transition">
-                <a href="/register">Cadastrar-se</a>
+                <a href="/registerpage">Cadastrar-se</a>
             </button>
         </div>
     );
