@@ -1,6 +1,6 @@
 # 📘 Página de Login com React
 
-Este é um projeto de autenticação simples feito com **React**, **Tailwind CSS** e **localStorage**. O sistema permite que usuários se registrem e façam login localmente. Após o login bem-sucedido, o usuário é redirecionado para uma página protegida (dashboard).
+Este é um projeto de autenticação simples feito com **React**, **Tailwind CSS** e **localStorage**. O sistema permite que usuários se registrem e façam login localmente. Após o login bem-sucedido, o usuário é redirecionado para uma página de exemplo.
 
 ---
 
